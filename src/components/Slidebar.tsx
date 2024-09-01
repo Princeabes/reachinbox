@@ -1,4 +1,4 @@
-import { BarChart2, Home, Inbox, InboxIcon, List, Mail, Send, UserRoundSearch, UserRoundSearchIcon } from 'lucide-react';
+import { BarChart2, Home,  InboxIcon, List, Mail, Send, UserRoundSearchIcon } from 'lucide-react';
 import React, { useState } from 'react';
 import Icon from './Icons';
 
